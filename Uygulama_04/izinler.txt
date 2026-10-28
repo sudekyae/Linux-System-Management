@@ -1,0 +1,18 @@
+/home/mert/oyun_projesi:
+total 16
+-rw------- 1 mert root           16 Oct 28 13:56 butce.txt
+drwxrwxr-x 2 root tasarimcilar 4096 Oct 28 13:48 grafik
+drwxrwxr-x 2 root sesciler     4096 Oct 28 13:52 sesler
+drwxr-xr-x 2 root testerlar    4096 Oct 28 13:54 testler
+
+/home/mert/oyun_projesi/grafik:
+total 4
+-rw-r----- 1 zeynep tasarimcilar 20 Oct 28 13:48 karakter_tasarimi.txt
+
+/home/mert/oyun_projesi/sesler:
+total 4
+-rw-rw-r-- 1 elif sesciler 47 Oct 28 13:52 muzik_listesi.txt
+
+/home/mert/oyun_projesi/testler:
+total 4
+-rwxrw---- 1 deniz testerlar 12 Oct 28 13:54 hata_raporu.txt
