@@ -1,0 +1,17 @@
+/home/alice/proje_klasoru:
+total 12
+drwxr-xr-x 2 root root              4096 Oct 28 13:17 docs
+drwxrwxr-x 2 root gelistiriciler    4096 Oct 28 13:09 src
+drwxrwxr-x 2 root belgelestiriciler 4096 Oct 28 12:51 tests
+
+/home/alice/proje_klasoru/docs:
+total 0
+-rw------- 1 alice root              0 Oct 28 13:17 gizli_dosya.txt
+-rw-r--r-- 1 root  belgelestiriciler 0 Oct 28 13:13 proje_belgeleri.txt
+
+/home/alice/proje_klasoru/src:
+total 0
+-rw-rw-r-- 1 alice gelistiriciler 0 Oct 28 13:09 ana_kod.py
+
+/home/alice/proje_klasoru/tests:
+total 0
