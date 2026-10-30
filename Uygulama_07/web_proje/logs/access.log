@@ -1,0 +1,11 @@
+127.0.0.1 - - [22/Oct/2024:10:00:00] "GET /index.html HTTP/1.1" 200 2326
+127.0.0.1 - - [22/Oct/2024:10:05:00] "POST /login HTTP/1.1" 302 512
+127.0.0.1 - - [22/Oct/2024:10:10:00] "GET /dashboard HTTP/1.1" 404 721 - hata bulundu
+127.0.0.1 - - [22/Oct/2024:10:15:00] "GET /profile HTTP/1.1" 200 872
+127.0.0.1 - - [22/Oct/2024:10:20:00] "GET /index.html HTTP/1.1" 200 2326 - dogru veri
+127.0.0.1 - - [22/Oct/2024:10:25:00] "POST /upload HTTP/1.1" 500 1289 - hata: dosya yüklenemedi
+127.0.0.1 - - [22/Oct/2024:10:30:00] "GET /home HTTP/1.1" 200 945
+127.0.0.1 - - [22/Oct/2024:10:35:00] "GET /index.html HTTP/1.1" 304 0
+127.0.0.1 - - [22/Oct/2024:10:40:00] "DELETE /api/item/1234 HTTP/1.1" 403 215 - yetki reddedildi
+127.0.0.1 - - [22/Oct/2024:10:45:00] "GET /api/data HTTP/1.1" 200 1587
+Fri Oct 30 10:54:13 +03 2026
