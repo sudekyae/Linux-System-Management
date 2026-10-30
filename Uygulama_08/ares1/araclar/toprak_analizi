@@ -1,0 +1,5 @@
+#!/bin/bash
+# Mars toprak analizi (çok uzun sürer)
+echo "Toprak analizi başladı... (saatler sürer)"
+sleep 7200
+echo "Analiz tamamlandı: toprakta su izi bulundu!"

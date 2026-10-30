@@ -1,0 +1,3 @@
+#!/bin/bash
+# Güneş paneli açı hesaplayıcı (sürekli çalışır)
+while true; do echo "$(date '+%T') panel acisi: $((RANDOM % 90)) derece" > "$HOME/ares1/loglar/panel.log"; sleep 2 & wait $!; done

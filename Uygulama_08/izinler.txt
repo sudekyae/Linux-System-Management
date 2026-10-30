@@ -1,0 +1,203 @@
+/home/sude/ares1:
+total 48
+-rw-r--r-- 1 sude sude       74 Oct 30 13:13 BENI_OKU.txt
+drwxr-xr-x 2 sude sude     4096 Oct 30 13:13 araclar
+drwxr-xr-x 2 sude sude     4096 Oct 30 13:39 arsiv
+drwxr-xr-x 5 sude sude     4096 Oct 30 13:13 depo
+drwxr-xr-x 2 sude sude     4096 Oct 30 14:26 gorev_defteri
+drwxr-xr-x 2 sude sude     4096 Oct 30 13:13 kapsul
+drwxr-xr-x 4 sude sude     4096 Oct 30 13:53 kargo
+drwxr-xr-x 2 sude sude     4096 Oct 30 13:13 kasa
+drwxrwx--- 2 luna pilotlar 4096 Oct 30 14:04 kokpit
+drwxr-xr-x 2 sude sude     4096 Oct 30 13:13 loglar
+-rw-rw-r-- 1 sude sude      600 Oct 30 14:36 oksijen_raporu.txt
+drwxr-xr-x 2 sude sude     4096 Oct 30 14:33 teslim_0301
+
+/home/sude/ares1/araclar:
+total 20
+-rwxr-xr-x 1 sude sude 341 Oct 30 13:13 alarm_sistemi
+-rwxr-xr-x 1 sude sude 125 Oct 30 13:13 oksijen_kontrol.sh
+-rwxr-xr-x 1 sude sude 203 Oct 30 13:13 panel_hesapla
+-rwxr-xr-x 1 sude sude 168 Oct 30 13:13 toprak_analizi
+-rwxr-xr-x 1 sude sude 111 Oct 30 13:13 uyandir.sh
+
+/home/sude/ares1/arsiv:
+total 92164
+-rw-r--r-- 1 sude sude 94371840 Oct 30 13:13 yedek_ORION.img
+
+/home/sude/ares1/depo:
+total 12
+drwxr-xr-x 2 sude sude 4096 Oct 30 13:13 fotograflar
+drwxr-xr-x 2 sude sude 4096 Oct 30 13:13 haritalar
+drwxr-xr-x 2 sude sude 4096 Oct 30 13:39 yedekler
+
+/home/sude/ares1/depo/fotograflar:
+total 996
+-rw-r--r-- 1 sude sude 24820 Oct 30 13:13 krater_1.jpg
+-rw-r--r-- 1 sude sude  7815 Oct 30 13:13 krater_10.jpg
+-rw-r--r-- 1 sude sude 19769 Oct 30 13:13 krater_11.jpg
+-rw-r--r-- 1 sude sude  6225 Oct 30 13:13 krater_12.jpg
+-rw-r--r-- 1 sude sude 24633 Oct 30 13:13 krater_13.jpg
+-rw-r--r-- 1 sude sude 25619 Oct 30 13:13 krater_14.jpg
+-rw-r--r-- 1 sude sude 11376 Oct 30 13:13 krater_15.jpg
+-rw-r--r-- 1 sude sude 25361 Oct 30 13:13 krater_16.jpg
+-rw-r--r-- 1 sude sude 20719 Oct 30 13:13 krater_17.jpg
+-rw-r--r-- 1 sude sude  2279 Oct 30 13:13 krater_18.jpg
+-rw-r--r-- 1 sude sude 10646 Oct 30 13:13 krater_19.jpg
+-rw-r--r-- 1 sude sude  5506 Oct 30 13:13 krater_2.jpg
+-rw-r--r-- 1 sude sude 23786 Oct 30 13:13 krater_20.jpg
+-rw-r--r-- 1 sude sude 26853 Oct 30 13:13 krater_21.jpg
+-rw-r--r-- 1 sude sude 18020 Oct 30 13:13 krater_22.jpg
+-rw-r--r-- 1 sude sude 29597 Oct 30 13:13 krater_23.jpg
+-rw-r--r-- 1 sude sude  2951 Oct 30 13:13 krater_24.jpg
+-rw-r--r-- 1 sude sude 19334 Oct 30 13:13 krater_25.jpg
+-rw-r--r-- 1 sude sude 12776 Oct 30 13:13 krater_26.jpg
+-rw-r--r-- 1 sude sude  8410 Oct 30 13:13 krater_27.jpg
+-rw-r--r-- 1 sude sude 10708 Oct 30 13:13 krater_28.jpg
+-rw-r--r-- 1 sude sude  2912 Oct 30 13:13 krater_29.jpg
+-rw-r--r-- 1 sude sude 13586 Oct 30 13:13 krater_3.jpg
+-rw-r--r-- 1 sude sude 13319 Oct 30 13:13 krater_30.jpg
+-rw-r--r-- 1 sude sude 27753 Oct 30 13:13 krater_31.jpg
+-rw-r--r-- 1 sude sude  2191 Oct 30 13:13 krater_32.jpg
+-rw-r--r-- 1 sude sude 10219 Oct 30 13:13 krater_33.jpg
+-rw-r--r-- 1 sude sude 18203 Oct 30 13:13 krater_34.jpg
+-rw-r--r-- 1 sude sude 23420 Oct 30 13:13 krater_35.jpg
+-rw-r--r-- 1 sude sude 13673 Oct 30 13:13 krater_36.jpg
+-rw-r--r-- 1 sude sude  7367 Oct 30 13:13 krater_37.jpg
+-rw-r--r-- 1 sude sude 11579 Oct 30 13:13 krater_38.jpg
+-rw-r--r-- 1 sude sude 27645 Oct 30 13:13 krater_39.jpg
+-rw-r--r-- 1 sude sude 12940 Oct 30 13:13 krater_4.jpg
+-rw-r--r-- 1 sude sude 25094 Oct 30 13:13 krater_40.jpg
+-rw-r--r-- 1 sude sude  9597 Oct 30 13:13 krater_41.jpg
+-rw-r--r-- 1 sude sude 21315 Oct 30 13:13 krater_42.jpg
+-rw-r--r-- 1 sude sude 14274 Oct 30 13:13 krater_43.jpg
+-rw-r--r-- 1 sude sude  2208 Oct 30 13:13 krater_44.jpg
+-rw-r--r-- 1 sude sude 29576 Oct 30 13:13 krater_45.jpg
+-rw-r--r-- 1 sude sude 18817 Oct 30 13:13 krater_46.jpg
+-rw-r--r-- 1 sude sude 18236 Oct 30 13:13 krater_47.jpg
+-rw-r--r-- 1 sude sude 20695 Oct 30 13:13 krater_48.jpg
+-rw-r--r-- 1 sude sude  3059 Oct 30 13:13 krater_49.jpg
+-rw-r--r-- 1 sude sude  2853 Oct 30 13:13 krater_5.jpg
+-rw-r--r-- 1 sude sude 16331 Oct 30 13:13 krater_50.jpg
+-rw-r--r-- 1 sude sude  2572 Oct 30 13:13 krater_51.jpg
+-rw-r--r-- 1 sude sude 24096 Oct 30 13:13 krater_52.jpg
+-rw-r--r-- 1 sude sude 16415 Oct 30 13:13 krater_53.jpg
+-rw-r--r-- 1 sude sude 13919 Oct 30 13:13 krater_54.jpg
+-rw-r--r-- 1 sude sude 27610 Oct 30 13:13 krater_55.jpg
+-rw-r--r-- 1 sude sude  3682 Oct 30 13:13 krater_56.jpg
+-rw-r--r-- 1 sude sude  8289 Oct 30 13:13 krater_57.jpg
+-rw-r--r-- 1 sude sude 14830 Oct 30 13:13 krater_58.jpg
+-rw-r--r-- 1 sude sude  3466 Oct 30 13:13 krater_59.jpg
+-rw-r--r-- 1 sude sude   765 Oct 30 13:13 krater_6.jpg
+-rw-r--r-- 1 sude sude 25927 Oct 30 13:13 krater_60.jpg
+-rw-r--r-- 1 sude sude  3110 Oct 30 13:13 krater_7.jpg
+-rw-r--r-- 1 sude sude 24926 Oct 30 13:13 krater_8.jpg
+-rw-r--r-- 1 sude sude 18984 Oct 30 13:13 krater_9.jpg
+
+/home/sude/ares1/depo/haritalar:
+total 31108
+-rw-r--r-- 1 sude sude    10630 Oct 30 13:13 bolge_1.map
+-rw-r--r-- 1 sude sude     7854 Oct 30 13:13 bolge_10.map
+-rw-r--r-- 1 sude sude    17171 Oct 30 13:13 bolge_11.map
+-rw-r--r-- 1 sude sude     2235 Oct 30 13:13 bolge_12.map
+-rw-r--r-- 1 sude sude    16672 Oct 30 13:13 bolge_13.map
+-rw-r--r-- 1 sude sude    23728 Oct 30 13:13 bolge_14.map
+-rw-r--r-- 1 sude sude    30006 Oct 30 13:13 bolge_15.map
+-rw-r--r-- 1 sude sude    32188 Oct 30 13:13 bolge_16.map
+-rw-r--r-- 1 sude sude    23505 Oct 30 13:13 bolge_17.map
+-rw-r--r-- 1 sude sude    24840 Oct 30 13:13 bolge_18.map
+-rw-r--r-- 1 sude sude     8559 Oct 30 13:13 bolge_19.map
+-rw-r--r-- 1 sude sude    12481 Oct 30 13:13 bolge_2.map
+-rw-r--r-- 1 sude sude     7333 Oct 30 13:13 bolge_20.map
+-rw-r--r-- 1 sude sude    15575 Oct 30 13:13 bolge_3.map
+-rw-r--r-- 1 sude sude    27011 Oct 30 13:13 bolge_4.map
+-rw-r--r-- 1 sude sude    17343 Oct 30 13:13 bolge_5.map
+-rw-r--r-- 1 sude sude    24003 Oct 30 13:13 bolge_6.map
+-rw-r--r-- 1 sude sude     9891 Oct 30 13:13 bolge_7.map
+-rw-r--r-- 1 sude sude    25863 Oct 30 13:13 bolge_8.map
+-rw-r--r-- 1 sude sude    20461 Oct 30 13:13 bolge_9.map
+-rw-r--r-- 1 sude sude 31457280 Oct 30 13:13 eski_harita.img
+
+/home/sude/ares1/depo/yedekler:
+total 0
+
+/home/sude/ares1/gorev_defteri:
+total 24
+-rw-r--r-- 1 sude sude   9 Oct 30 14:12 alarm_pid.txt
+-rw-r--r-- 1 sude sude  33 Oct 30 14:26 kalkis_sifresi.txt
+-rw-r--r-- 1 sude sude  46 Oct 30 13:17 kayit.txt
+-rw-r--r-- 1 sude sude   4 Oct 30 13:25 kritik_sayisi.txt
+-rw-r--r-- 1 sude sude 258 Oct 30 13:56 numune_listesi.txt
+-rw-r--r-- 1 sude sude   6 Oct 30 14:19 toprak_pid.txt
+
+/home/sude/ares1/kapsul:
+total 4
+-rwxr-xr-x 1 sude sude 828 Oct 30 13:13 kalkis.sh
+
+/home/sude/ares1/kargo:
+total 8
+drwxr-xr-x 2 sude sude 4096 Oct 30 13:48 laboratuvar
+drwxr-xr-x 2 sude sude 4096 Oct 30 13:48 sera
+
+/home/sude/ares1/kargo/laboratuvar:
+total 68
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_1.numune
+-rw-r--r-- 1 sude sude 17 Oct 30 13:13 kaya_10.numune
+-rw-r--r-- 1 sude sude 17 Oct 30 13:13 kaya_11.numune
+-rw-r--r-- 1 sude sude 17 Oct 30 13:13 kaya_12.numune
+-rw-r--r-- 1 sude sude 17 Oct 30 13:13 kaya_13.numune
+-rw-r--r-- 1 sude sude 17 Oct 30 13:13 kaya_14.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_2.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_3.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_4.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_5.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_6.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_7.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_8.numune
+-rw-r--r-- 1 sude sude 16 Oct 30 13:13 kaya_9.numune
+-rw-r--r-- 1 sude sude 13 Oct 30 13:13 kizil toz.numune
+-rw-r--r-- 1 sude sude 13 Oct 30 13:13 kutup buzu.numune
+-rw-r--r-- 1 sude sude 15 Oct 30 13:13 meteor parcasi.numune
+
+/home/sude/ares1/kargo/sera:
+total 32
+-rw-r--r-- 1 sude sude 13 Oct 30 13:13 biber.bitki
+-rw-r--r-- 1 sude sude 13 Oct 30 13:13 cilek.bitki
+-rw-r--r-- 1 sude sude 15 Oct 30 13:13 domates.bitki
+-rw-r--r-- 1 sude sude 15 Oct 30 13:13 fasulye.bitki
+-rw-r--r-- 1 sude sude 13 Oct 30 13:13 marul.bitki
+-rw-r--r-- 1 sude sude 12 Oct 30 13:13 nane.bitki
+-rw-r--r-- 1 sude sude 15 Oct 30 13:13 patates.bitki
+-rw-r--r-- 1 sude sude 12 Oct 30 13:13 uzay cilegi.bitki
+
+/home/sude/ares1/kasa:
+total 40
+-rw-r--r-- 1 sude sude 58 Oct 30 13:13 kutu_1.txt
+-rw--w---- 1 sude sude 58 Oct 30 13:13 kutu_10.txt
+-rw-rw-r-- 1 sude sude 58 Oct 30 13:13 kutu_2.txt
+-rw------- 1 sude sude 58 Oct 30 13:13 kutu_3.txt
+-rw-r----- 1 sude sude 58 Oct 30 13:13 kutu_4.txt
+-r--r--r-- 1 sude sude 58 Oct 30 13:13 kutu_5.txt
+-rw-rw---- 1 sude sude 58 Oct 30 13:13 kutu_6.txt
+-rw----r-- 1 sude sude 58 Oct 30 13:13 kutu_7.txt
+-rw-rw-rw- 1 sude sude 58 Oct 30 13:13 kutu_8.txt
+-r-------- 1 sude sude 19 Oct 30 13:13 kutu_9.txt
+
+/home/sude/ares1/kokpit:
+total 4
+-rw-r----- 1 luna pilotlar 11 Oct 30 14:04 ucus_plani.txt
+
+/home/sude/ares1/loglar:
+total 152
+-rw-r--r-- 1 sude sude   6864 Oct 30 14:12 alarm.log
+-rw-r--r-- 1 sude sude 142354 Oct 30 13:13 oksijen.log
+-rw-r--r-- 1 sude sude     32 Oct 30 14:36 panel.log
+
+/home/sude/ares1/teslim_0301:
+total 24
+-rw-r--r-- 1 sude sude   9 Oct 30 14:33 alarm_pid.txt
+-rw-r--r-- 1 sude sude  33 Oct 30 14:33 kalkis_sifresi.txt
+-rw-r--r-- 1 sude sude  46 Oct 30 14:33 kayit.txt
+-rw-r--r-- 1 sude sude   4 Oct 30 14:33 kritik_sayisi.txt
+-rw-r--r-- 1 sude sude 258 Oct 30 14:33 numune_listesi.txt
+-rw-r--r-- 1 sude sude   6 Oct 30 14:33 toprak_pid.txt

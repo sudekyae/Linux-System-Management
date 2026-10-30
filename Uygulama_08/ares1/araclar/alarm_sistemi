@@ -1,0 +1,10 @@
+#!/bin/bash
+# ARES-1 meteor alarm sistemi (ARIZALI)
+T="$1"
+while true; do
+  echo "$(date '+%T') METEOR ALARMI! (yanlis alarm)" >> "$HOME/ares1/loglar/alarm.log"
+  if [ -n "$T" ] && [ -w "$T" ]; then
+    printf '\n\a🚨 [ARES-1] METEOR ALARMI! Alarm sistemi arızalı... Susturmak için süreci bul!\n' > "$T"
+  fi
+  sleep 20 & wait $!
+done
